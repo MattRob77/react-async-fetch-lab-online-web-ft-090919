@@ -11,6 +11,6 @@ export default class App extends Component {
   }
   
   componentDidMount() {
-    fetch()
+    fetch('http://api.open-notify.org/astros.json')
   }
 }
