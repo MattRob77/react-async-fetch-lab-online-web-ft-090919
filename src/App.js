@@ -2,4 +2,6 @@
 
 import React, { Component } from 'react'
 
-export default class App 
+export default class App extends Component {
+  
+}
