@@ -2,4 +2,4 @@
 
 import React, { Component } from 'react'
 
-export default class APP
+export default class App 
