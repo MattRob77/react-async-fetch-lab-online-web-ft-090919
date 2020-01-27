@@ -1,3 +1,3 @@
 // create your App component here
 
-import React {}
+import React, { component }
